@@ -1,0 +1,67 @@
+{
+  "id" : "https://alliomeria.github.io/Gardens/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in alliomeria/Gardens project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2590,
+    "id" : "https://alliomeria.github.io/Gardens/images/Garden2/canvas/",
+    "label" : {
+      "none" : [ "Garden2" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://alliomeria.github.io/Gardens/images/Garden2/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://alliomeria.github.io/Gardens/images/Garden2/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 81,
+              "height" : 63
+            }, {
+              "width" : 162,
+              "height" : 125
+            }, {
+              "width" : 324,
+              "height" : 249
+            }, {
+              "width" : 648,
+              "height" : 498
+            }, {
+              "width" : 1295,
+              "height" : 995
+            }, {
+              "width" : 2590,
+              "height" : 1989
+            } ],
+            "profile" : "level0",
+            "width" : 2590,
+            "id" : "https://alliomeria.github.io/Gardens/images/Garden2",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1989
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2590,
+          "id" : "https://alliomeria.github.io/Gardens/images/Garden2/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 1989
+        },
+        "target" : "https://alliomeria.github.io/Gardens/images/Garden2/canvas/"
+      } ]
+    } ],
+    "height" : 1989
+  } ]
+}
