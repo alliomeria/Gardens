@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 96,
+    "height" : 77
+  }, {
+    "width" : 191,
+    "height" : 153
+  }, {
+    "width" : 381,
+    "height" : 306
+  }, {
+    "width" : 762,
+    "height" : 612
+  }, {
+    "width" : 1523,
+    "height" : 1223
+  }, {
+    "width" : 3046,
+    "height" : 2446
+  } ],
+  "profile" : "level0",
+  "width" : 3046,
+  "id" : "https://alliomeria.github.io/Gardens/images/Garden4",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2446
+}
