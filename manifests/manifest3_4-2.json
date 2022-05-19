@@ -9,7 +9,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Provided by DCMNY.",
   "sequences" : [ {
     "@id" : "http://8c99b87e-3a3d-481b-b71b-67d1cbcf79c8",
     "@type" : "sc:Sequence",
