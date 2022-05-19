@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3046,
+    "id" : "https://alliomeria.github.io/Gardens/images/Garden4/canvas/",
+    "label" : {
+      "none" : [ "Garden4" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://alliomeria.github.io/Gardens/images/Garden4/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://alliomeria.github.io/Gardens/images/Garden4/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 96,
+              "height" : 77
+            }, {
+              "width" : 191,
+              "height" : 153
+            }, {
+              "width" : 381,
+              "height" : 306
+            }, {
+              "width" : 762,
+              "height" : 612
+            }, {
+              "width" : 1523,
+              "height" : 1223
+            }, {
+              "width" : 3046,
+              "height" : 2446
+            } ],
+            "profile" : "level0",
+            "width" : 3046,
+            "id" : "https://alliomeria.github.io/Gardens/images/Garden4",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2446
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3046,
+          "id" : "https://alliomeria.github.io/Gardens/images/Garden4/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2446
+        },
+        "target" : "https://alliomeria.github.io/Gardens/images/Garden4/canvas/"
+      } ]
+    } ],
+    "height" : 2446
+  }, {
     "width" : 2992,
     "id" : "https://alliomeria.github.io/Gardens/images/Garden1/canvas/",
     "label" : {
