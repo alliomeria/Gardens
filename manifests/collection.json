@@ -1,0 +1,13 @@
+{
+  "id" : "https://alliomeria.github.io/Gardens/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in alliomeria/Gardens project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://alliomeria.github.io/Gardens/manifests/manifest3_4.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
