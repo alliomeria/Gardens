@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ ],
+  "otherContent" : [ "https://alliomeria.github.io/Gardens/annotations/GardenAnnotations.json" ],
   "@id" : "https://alliomeria.github.io/Gardens/annotations/collection.json",
   "label" : "All annotations loaded in alliomeria/Gardens project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
